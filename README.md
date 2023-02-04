@@ -1,4 +1,4 @@
-Hello, my name is Kar Seng. I've taken around 4 hours to solve this code test. I've written a console app to solve the expressions using C#.
+Hello, my name is Kar Seng. I've taken around 6 hours to solve this code test. I've written a console app to solve the expressions using C#.
 
 Solution:
 1. Create 2 stacks, one is to store operators and second is to store numbers.
