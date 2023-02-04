@@ -1,0 +1,15 @@
+C:\Users\BoscoLam\source\repos\IdeagenCalculator\IdeagenCalculator\bin\Debug\net6.0\IdeagenCalculator.exe
+C:\Users\BoscoLam\source\repos\IdeagenCalculator\IdeagenCalculator\bin\Debug\net6.0\IdeagenCalculator.deps.json
+C:\Users\BoscoLam\source\repos\IdeagenCalculator\IdeagenCalculator\bin\Debug\net6.0\IdeagenCalculator.runtimeconfig.json
+C:\Users\BoscoLam\source\repos\IdeagenCalculator\IdeagenCalculator\bin\Debug\net6.0\IdeagenCalculator.dll
+C:\Users\BoscoLam\source\repos\IdeagenCalculator\IdeagenCalculator\bin\Debug\net6.0\IdeagenCalculator.pdb
+C:\Users\BoscoLam\source\repos\IdeagenCalculator\IdeagenCalculator\obj\Debug\net6.0\IdeagenCalculator.csproj.AssemblyReference.cache
+C:\Users\BoscoLam\source\repos\IdeagenCalculator\IdeagenCalculator\obj\Debug\net6.0\IdeagenCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BoscoLam\source\repos\IdeagenCalculator\IdeagenCalculator\obj\Debug\net6.0\IdeagenCalculator.AssemblyInfoInputs.cache
+C:\Users\BoscoLam\source\repos\IdeagenCalculator\IdeagenCalculator\obj\Debug\net6.0\IdeagenCalculator.AssemblyInfo.cs
+C:\Users\BoscoLam\source\repos\IdeagenCalculator\IdeagenCalculator\obj\Debug\net6.0\IdeagenCalculator.csproj.CoreCompileInputs.cache
+C:\Users\BoscoLam\source\repos\IdeagenCalculator\IdeagenCalculator\obj\Debug\net6.0\IdeagenCalculator.dll
+C:\Users\BoscoLam\source\repos\IdeagenCalculator\IdeagenCalculator\obj\Debug\net6.0\refint\IdeagenCalculator.dll
+C:\Users\BoscoLam\source\repos\IdeagenCalculator\IdeagenCalculator\obj\Debug\net6.0\IdeagenCalculator.pdb
+C:\Users\BoscoLam\source\repos\IdeagenCalculator\IdeagenCalculator\obj\Debug\net6.0\IdeagenCalculator.genruntimeconfig.cache
+C:\Users\BoscoLam\source\repos\IdeagenCalculator\IdeagenCalculator\obj\Debug\net6.0\ref\IdeagenCalculator.dll
