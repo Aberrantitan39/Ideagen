@@ -110,7 +110,14 @@
             values.Push(Evaluate(operators.Pop(), values.Pop(), values.Pop()));
         }
 
-        return values.Pop();
+
+        var result = values.Pop();
+        if (!(result % 1 == 0))
+        {
+            result = Math.Round(result, 2);
+        }
+
+        return result;
     }
 
     static bool HasPrecedence(char operator1, char operator2)
